@@ -1,2 +1,2 @@
 # dogvscat
-Dogs vs cat classification model
+Dogs vs Cat classification model
