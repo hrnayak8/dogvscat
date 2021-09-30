@@ -36,7 +36,6 @@ def prediction():
     if pred == 0:
         return render_template("prediction.html", data = "It is a CAT")
 
-    return "wellcome to prediction"
 
 if __name__ == "__main__":
     app.run(debug=True)
